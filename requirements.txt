@@ -13,3 +13,4 @@ markdown2[all]
 requests
 prompt_toolkit
 rich
+transformers>=5.0.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
